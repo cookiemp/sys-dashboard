@@ -1,0 +1,8 @@
+main.py
+pyproject.toml
+sys_dashboard.egg-info/PKG-INFO
+sys_dashboard.egg-info/SOURCES.txt
+sys_dashboard.egg-info/dependency_links.txt
+sys_dashboard.egg-info/entry_points.txt
+sys_dashboard.egg-info/requires.txt
+sys_dashboard.egg-info/top_level.txt
