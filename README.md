@@ -4,7 +4,7 @@ A modern, cross-platform, and polished command-line tool to display your system'
 
 This project serves as a great example of how to build a practical and beautiful CLI application.
 
-![System Dashboard Demo](.\assets\demo.png)
+![System Dashboard Demo](assets/demo.png)
 
 ##  Features
 
