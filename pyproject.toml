@@ -14,4 +14,4 @@ dependencies = [
 ]
 
 [project.scripts]
-sys-dashboard = "main:main"
+sys-dashboard = "main:app"

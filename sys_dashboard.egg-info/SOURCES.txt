@@ -1,5 +1,7 @@
+README.md
 main.py
 pyproject.toml
+setup.cfg
 sys_dashboard.egg-info/PKG-INFO
 sys_dashboard.egg-info/SOURCES.txt
 sys_dashboard.egg-info/dependency_links.txt
